@@ -2,9 +2,8 @@
 
 **SC1015 - Data Science Project (Predicting Student Academic Performance)**
 
-Filename: `README.md` (in the root of this project's GitHub repository)
 
-```markdown
+
 # Predicting Student Academic Performance (SC1015 Data Science Project)
 
 This project, undertaken for the SC1015 Introduction to Data Science & Artificial Intelligence course at Nanyang Technological University, focuses on predicting students' final academic grades. It involves analyzing datasets of secondary students' performance in Math and Portuguese courses to identify key influencing factors and build predictive models.
