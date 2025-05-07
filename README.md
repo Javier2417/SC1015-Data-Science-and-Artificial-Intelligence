@@ -111,7 +111,7 @@ My primary contributions to the modeling phase were:
 
 ## Author
 
-*   Javier
-*   Faith
-*   Zhe Wei
+*   Javier [https://github.com/Javier2417]
+*   Faith [https://github.com/Faith-Yeo]
+*   Zhe Wei [yeoh.zhewei@yahoo.com]
 ---
